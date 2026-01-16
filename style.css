@@ -373,9 +373,9 @@ body.show-emoji-picker em-emoji-picker {
         width: 100%;
         border-radius: 0;
     }
-    /* .chat-header button {
-        margin-left: 180px ;
-    } */
+    .chat-header button {
+        margin-left: 135px ;
+    }
 
     .chatbot-popup .chat-header {
         padding: 12px 15px;

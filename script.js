@@ -9,7 +9,7 @@ const closeChatbot = document.querySelector("#close-chatbot");
 
 
 //API setup
-const API_KEY = "AIzaSyBIHiTybTpuBFWwS4OKp-lJ_cVe6fBWs1w";
+const API_KEY = "AIzaSyA8hTK3Fi9G64iKlx37oyPvJW4YdNgnK3Y";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${API_KEY}`;
 
 const userData = {
